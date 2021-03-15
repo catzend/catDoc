@@ -1,0 +1,24 @@
+header {
+   width: 100%; height: 131px;
+}
+header .logo {
+   margin-top: 39px;
+}
+header .logo img {
+   width: 192px; height: 60px;
+}
+header .mess {
+   margin-top: 35px; width: 259px;
+}
+header .mess .concat > img {
+   width: 32px; height: 25px;
+}
+header .mess .concat .phone {
+   display: inline-block; width: 171.9px; height: 26px; font-family: Helvetica; font-size: 20px; line-height: 26px; text-align: center; color: #00978e;
+}
+header .mess .concat .translate {
+   margin-left: -12px; width: 62.4px;
+}
+header .mess .concat .translate img {
+   width: 24px; height: 24px;
+}
